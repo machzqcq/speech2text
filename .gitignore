@@ -1,4 +1,7 @@
 target/
+.DS_Store
+**/.DS_Store
+1028-20100710-hne/.DS_Store
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
